@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nbitzer
 - 👀 I’m interested in automating all the things!
-- 🌱 I’m currently learning javascript development, mostly in the react space.
 - 📫 nick@bitzer.me
 
 <!---
