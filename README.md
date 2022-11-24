@@ -1,9 +1,6 @@
-👋 Hi, I’m @nbitzer
+👋 Hi, I’m Nick! I'm currently a Sr. Engineering Manager @ Etsy where I get to work on infrastructure and application problems at scale. 
 
-👀 I’m interested in automating all the things!
-
-📫 nick@bitzer.me
-
+Want to get ahold of me? 📫 [Shooting me an email](mailto:nick@bitzer.me?subject=[GitHub]) will do the trick.
 
 <!---
 nbitzer/nbitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
